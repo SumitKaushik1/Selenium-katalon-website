@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="J:/3. automation testing/day39---Selenium full ui elements testing/Assignment2 Hint/com.katlon/src/test/java/org/example/koatlonWebsite.java"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="5.717">
+    <properties></properties>
+
+
+
+            <testcase
+                name="makeAppointment"
+                time="2.420"
+                classname="org.example.koatlonWebsite">
+            </testcase>
+            <testcase
+                name="verifyAppointmentConfirmation"
+                time="0.231"
+                classname="org.example.koatlonWebsite">
+            </testcase>
+            <testcase
+                name="loginWithValidCredentials"
+                time="3.066"
+                classname="org.example.koatlonWebsite">
+            </testcase>
+</testsuite>
